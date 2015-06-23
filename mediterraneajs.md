@@ -3,7 +3,6 @@
 %date: 2015-05-19
 
 -> Building <-
-
 \                            \______  \___  \_____
                            / \___  //   |/\__  /
                           / /\__/ // /| |  / / 
@@ -85,6 +84,8 @@ Purely for context of the story:
 
 If this is over your head don't worry;
 this talk assumes no previous knowledge!
+
+Read more here: *http://paz.sh* and *http://paz.readme.io*
 
 ---
 
@@ -221,7 +222,7 @@ Also remember:
 
 - Paz was a huge learning experience re Docker for me
 - As always, my vision seemed simple enough
-- I soon realised a simple Docker Paz was a toy
+- I soon realised a simple Docker PaaS was a toy
 - Getting it right and production-ready is another matter
   - It requires solving big, difficult problems
 - "Docker in production" is about more than running containers
@@ -234,11 +235,11 @@ Also remember:
 
 ## USING NEW TECHNOLOGIES AND METHODOLOGIES
 
-- With new technologies come unexpected challenges
-  - For which you may not be prepared
-  - That may disrupt project timelines
-  - That may pi$$ off the business
-  - That may get you fired
+With new technologies come unexpected challenges
+- For which you may not be prepared
+- That may disrupt project timelines
+- That may pi$$ off the business
+- That may get you fired
 
 ---
 
@@ -284,68 +285,6 @@ Also remember:
   - And keep up with the experimental cutting edge of our industry
 - This is why i built Paz
 - Any of you who've built something for free/fun understand this
-- But let's play a little game
-
----
-
-## IMAGINE THE FOLLOWING STATEMENTS
-
-> Docker solves OS compatibility issues and allows you to deploy
-> the same thing from dev to production
-
----
-
-## IMAGINE THE FOLLOWING STATEMENTS
-
-> Microservices mean you can develop faster, isolate yourself from
-> blocking dependencies, allow you to compose services and to onboard
-> new developers to a project faster as a result
-
----
-
-## IMAGINE THE FOLLOWING STATEMENTS
-
-> 0MQ allows you to build faster, more resilient, brokerless distributed
-> systems without single points of failure.
-> Therefore you shouldn't use RabbitMQ
-
----
-
-## IMAGINE THE FOLLOWING STATEMENTS
-
-> NoSQL databases are web-scale, you can't reach the scale you need in
-> the future with relational databases
-
----
-
-## IMAGINE THE FOLLOWING STATEMENTS
-
-> Using a large, opinionated framework will lock you in and bring
-> constraints that may not suit your problem; you shouldn't use them,
-> instead you should choose a set of smaller, better-suited pieces
-> and compose them into your system
-
----
-
-## IMAGINE THE FOLLOWING STATEMENTS
-
-> Distributed, brokerless Docker microservice buses running on
-> unicornels are the future, they make everything else obsolete
-
----
-
-## WHAT DO ALL OF THESE STATEMENTS HAVE IN COMMON?
-
-They're all:
-- Partially true (except perhaps the last one)
-- Mostly BS
-- Over-simplifications
-- A dangerous trap for the unwary
-
-But they're all true in the right context and in the right hands.
-
-The warning here is not against using new technologies,
-but against recklessness.
 
 ---
 
@@ -367,6 +306,8 @@ A developer should (IMHO):
 - New tech introduces challenges you may not expect or be prepared for
 - I've put most of these into production so if you think it's easy AMA
 
+This is not an argument against new technology but against recklessness.
+
 ---
 
 ## IN SUMMARY
@@ -377,3 +318,5 @@ A developer should (IMHO):
 - Software engineering hasn't change a lot
 - Beware the snake-oil salesperson
 - Don't be reckless with your customers' businesses
+- You can achieve anything
+- Beware burnout!
